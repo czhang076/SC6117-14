@@ -6,7 +6,11 @@
 
 ## 1. Problem Statement
 
-**Deploying an AI system for unique digital identity creation.**
+**What is the problem and Why does it matter**
+
+With the surge of blockchain technology, more and more decentralized application has emerged. Users, who care their privacy, of decentralized applications will have the need for a digital identity, their icon will be the representation or symbol of their digital identity. Current NFTs are created using cartoons or business trademarks instead of something that belongs to individuals. 
+
+**Solution: deploying an AI system for unique digital identity creation.**
 
 Our goal is to deploy an AI system that empowers users to build unique NFT icons based on their actual facial biodata. The system achieves uniqueness and personalization by providing capabilities to modify attributes such as haircut styles, facial accessories, and other features.
 
@@ -24,6 +28,10 @@ The system will demonstrate the following core functionalities:
   - Specific text prompts (e.g., "blonde curly hair").
 - **Real-time Preview:** Generate and display a preview of the predicted outcome image based on the user's inputs.
 - **NFT Minting & Uniqueness:** Transform the finalized outcome image into a Non-Fungible Token (NFT). This NFT will contain a unique identifier derived from the image content, ensuring authenticity and ownership.
+
+**Value creation**
+
+Users will generate their unique NTFs based on their own data, and they have the ownership of this NTFs with digital signiture. Their goodwill and credit value will be reflected in their NFTs, creating real commodities that can be embraced and traded by their fans (like photos with signatures). There are perceived value added to this icon usage as well compared with normal NFTs created by others.
 
 ## 4. Technical Approach and Feasibility Assessment
 
