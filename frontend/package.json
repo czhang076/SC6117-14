@@ -1,0 +1,10 @@
+{
+  "name": "capstone-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "echo \"Start frontend dev server (implement)\" && exit 0",
+    "build": "echo \"Build step (implement)\" && exit 0"
+  },
+  "dependencies": {}
+}
