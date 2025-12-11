@@ -1,4 +1,11 @@
-fastapi==0.99.1
-uvicorn[standard]==0.22.0
-pydantic==2.5.1
-# add vector DB clients or other deps here (qdrant-client, chromadb, sentence-transformers)
+fastapi>=0.100.0
+uvicorn[standard]
+pydantic>=2.0
+python-dotenv
+openai>=1.0.0
+qdrant-client==1.9.0
+scikit-learn
+numpy
+python-frontmatter
+httpx
+python-multipart
